@@ -122,6 +122,7 @@ plt.show()
 ### Original Grayscale Image
 
 
+<img width="183" height="247" alt="image" src="https://github.com/user-attachments/assets/ebec8a97-18cc-40ec-9156-6d55d079dec6" />
 
 
 
@@ -130,6 +131,7 @@ plt.show()
 - Serves as the input for thresholding operations.
 
 ### Global Thresholding
+<img width="242" height="288" alt="image" src="https://github.com/user-attachments/assets/497c9f0d-f141-488b-9226-e2f02c10db5a" />
 
 
 
@@ -140,6 +142,7 @@ plt.show()
 
 ### Adaptive Thresholding
 
+<img width="257" height="292" alt="image" src="https://github.com/user-attachments/assets/49bba9fe-3464-4d68-ae47-d2f93b19afe5" />
 
 
 - Original image is displayed.
@@ -149,6 +152,7 @@ plt.show()
 - Suitable for images with uneven illumination.
 
 ### Otsu's Thresholding
+<img width="221" height="287" alt="image" src="https://github.com/user-attachments/assets/1e5e79e3-56e2-401d-b54a-ee8e970f1170" />
 
 
 - Original image is displayed.
